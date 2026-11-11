@@ -1,0 +1,5 @@
+hospital_id,hospital_name,city,state,beds,opened_on
+HSP01,"Medisetu Hospital, Baner",Pune,Maharashtra,220,2014-06-12
+HSP02,"Medisetu Hospital, Dharampeth",Nagpur,Maharashtra,180,2017-01-09
+HSP03,"Medisetu Hospital, College Road",Nashik,Maharashtra,140,2019-08-21
+HSP04,"Medisetu Hospital, CIDCO",Chhatrapati Sambhajinagar,Maharashtra,120,2021-11-15
